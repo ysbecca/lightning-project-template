@@ -1,2 +1,4 @@
-# lightning-project-template
-Basic PyTorch Lightning project template, with YAML config for hyperparameter tuning.
+# Lightning project template
+
+
+PyTorch Lightning deep learning template project.

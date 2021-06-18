@@ -1,0 +1,6 @@
+---
+# section
+0:
+  model_code: "densenet"
+  training_code: "sg-mcmc"
+  dataset_code: "mnist"
